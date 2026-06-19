@@ -37,12 +37,6 @@ I created this project to practice frontend development and to build a professio
 - GitHub: [MoezaAftab](https://github.com/MoezaAftab)  
 - Email: moezaaftab1@example.com  
 
-## Future Improvements
-
-- Add JavaScript for interactivity  
-- Improve responsive design for all devices  
-- Add animations and modern UI improvements  
-- Deploy using GitHub Pages  
 
 ---
 
