@@ -35,7 +35,7 @@ I created this project to practice frontend development and to build a professio
 
 - LinkedIn: [Moeza Aftab](https://www.linkedin.com/in/moeza-aftab-689458335)  
 - GitHub: [MoezaAftab](https://github.com/MoezaAftab)  
-- Email: your-email@example.com  
+- Email: moezaaftab1@example.com  
 
 ## Future Improvements
 
