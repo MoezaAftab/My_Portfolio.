@@ -47,7 +47,7 @@ As I continue learning modern web development, I plan to enhance this project by
 
 My_Portfolio/
 │
-├── index.html
+├── portfolio.html
 ├── style.css
 ├── images/
 └── README.md
