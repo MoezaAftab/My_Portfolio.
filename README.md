@@ -54,7 +54,6 @@ My_Portfolio/
 
 
 ## Screenshots
-
 ### Home
 
 ![Home](images/Home.png)
