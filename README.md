@@ -1,42 +1,74 @@
 # Personal Portfolio Website
 
-This is my personal portfolio website built using HTML and CSS. It represents my journey as a Software Engineering student and highlights my skills, education, and projects.
+A responsive personal portfolio website developed using **HTML5** and **CSS3** to showcase my skills, projects, certifications, and academic background as a Software Engineering student.
 
 ## About
 
-I created this project to practice frontend development and to build a professional online presence for internships and future opportunities. It includes all the basic sections needed for a developer portfolio.
+This portfolio represents my journey as an aspiring software engineer. I built it to strengthen my frontend development skills while creating a professional online presence for internship and career opportunities. The website highlights my technical skills, projects, certifications, and contact information in a clean and organized layout.
 
 ## Technologies Used
 
-- HTML5  
-- CSS3  
+- HTML5
+- CSS3
 
 ## Features
 
-- Simple and clean layout  
-- Navigation bar for easy access to sections  
-- About section with personal introduction  
-- Education details  
-- Skills section  
-- Projects showcase  
-- Certifications list  
-- Contact information with social links  
+- Responsive and user-friendly design
+- Clean and organized interface
+- Navigation bar for easy access to sections
+- About Me section
+- Education section
+- Technical Skills section
+- Projects showcase
+- Certifications section
+- Contact information with GitHub and LinkedIn links
 
-## Project Structure
+## Project Goals
 
-## Purpose
+- Practice frontend web development fundamentals
+- Improve HTML and CSS skills through hands-on development
+- Learn how to structure and organize a real-world website
+- Build a professional portfolio for internship applications
+- Strengthen Git and GitHub version control skills
 
-- Improve my HTML and CSS skills  
-- Learn how to structure real-world web projects  
-- Build a portfolio for internships  
-- Practice using GitHub for version control  
+## Future Improvements
 
-## Contact
+As I continue learning modern web development, I plan to enhance this project by adding:
 
-- LinkedIn: [Moeza Aftab](https://www.linkedin.com/in/moeza-aftab-689458335)  
-- GitHub: [MoezaAftab](https://github.com/MoezaAftab)   
+- JavaScript interactivity
+- React.js version
+- Dark mode
+- Animations and smoother transitions
+- Contact form with backend integration
+- Additional projects and certifications
 
+## Repository Structure
+
+
+My_Portfolio/
+│
+├── index.html
+├── style.css
+├── images/
+└── README.md
+
+
+## Screenshots
+
+> Screenshots of the website will be added soon.
+
+## Live Demo
+
+*Coming soon.*
+
+## Connect With Me
+
+**LinkedIn:** https://www.linkedin.com/in/moeza-aftab
+
+**GitHub:** https://github.com/MoezaAftab
+
+**Email:**moezaaftab1@gmail.com
 
 ---
 
-This project is part of my learning journey in web development.
+⭐ Thank you for visiting my portfolio! Feedback and suggestions are always welcome.
