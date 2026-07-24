@@ -37,7 +37,6 @@ As I continue learning modern web development, I plan to enhance this project by
 
 - JavaScript interactivity
 - React.js version
-- Dark mode
 - Animations and smoother transitions
 - Contact form with backend integration
 - Additional projects and certifications
@@ -47,7 +46,7 @@ As I continue learning modern web development, I plan to enhance this project by
 
 My_Portfolio/
 │
-├── portfolio.html
+├── index.html
 ├── style.css
 ├── images/
 └── README.md
