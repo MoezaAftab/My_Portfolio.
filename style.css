@@ -162,6 +162,17 @@ section h2{
     list-style:none;
 }
 
+.project-link {
+    color: #b361a9;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.project-link:hover {
+    color: #011d1b;
+    text-decoration: underline;
+}
+
 /* CONTACT */
 
 #contact{
