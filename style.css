@@ -172,6 +172,13 @@ section h2{
     color: #011d1b;
     text-decoration: underline;
 }
+/* CERTIFICATIONS HEADINGS */
+
+#certifications h3{
+    color:#ff36a1;
+    text-align:center;
+    margin-bottom:20px;
+}
 
 /* CONTACT */
 
@@ -187,9 +194,17 @@ section h2{
 /* FOOTER */
 
 footer{
+    width:100%;
+    display:block;
+    clear:both;
     text-align:center;
     padding:25px;
+    margin-top:0;
     background:#1d835c;
+}
+
+footer p{
+    margin:0;
 }
 
 /* RESPONSIVE */
